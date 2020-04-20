@@ -14,3 +14,8 @@ form {
 	margin: 30px;
 	padding: 30px;
 }
+
+form{
+	margin-top: auto;
+	margin-left: auto;
+}
