@@ -1,13 +1,18 @@
 body {
-  background-color: red;
+	background-color: red;
 }
 
 h1 {
-  color: green;
+	color: green;
 }
 
 p {
-  color: blue;
+	color: blue;
+}
+
+form {
+	margin: 30px;
+	padding: 30px;
 }
 form{
   margin: 20px;
