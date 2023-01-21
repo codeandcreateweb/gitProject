@@ -13,4 +13,6 @@ p {
 form {
 	margin: 30px;
 	padding: 30px;
+	<input type="text" name="Text Input" placeholder="Text Input" required>
+	<button>Click Here</button>
 }
